@@ -214,8 +214,6 @@ Although LLMs are leading the next wave of AI revolution, the remarkable capabil
 - Symbolic Discovery of Optimization Algorithms, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2302.06675)]
 - Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.14342)] [[Code](https://github.com/Liuhong99/Sophia)]
 - Large Batch Optimization for Deep Learning: Training BERT in 76 minutes, <ins>ICLR, 2020</ins> [[Paper](https://arxiv.org/abs/1904.00962)] [[Code](https://github.com/tensorflow/addons/blob/master/tensorflow_addons/optimizers/lamb.py)]
-#### System-Level Pre-Training Efficiency Optimization
-- MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.15627)] 
 ### Efficient Fine-Tuning
 #### Parameter-Efficient Fine-Tuning
 ##### Adapter-based Tuning
